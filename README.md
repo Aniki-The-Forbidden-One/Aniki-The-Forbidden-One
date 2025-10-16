@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Conduct a security audit](https://github.com/Aniki-The-Forbidden-One/LABURL)
+  - [Conduct a security audit](https://github.com/Aniki-The-Forbidden-One/Conduct-A-Security-Audit)
 
 <h2> 🤳 Connect with me:</h2>
 
