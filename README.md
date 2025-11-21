@@ -9,7 +9,8 @@
 
   - [Conduct a security audit](https://github.com/Aniki-The-Forbidden-One/Conduct-A-Security-Audit)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://https://github.com/Aniki-The-Forbidden-One/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident)
-
+  - [Use Linux commands to manage file permissions](https://github.com/Aniki-The-Forbidden-One/Use-Linux-commands-to-manage-file-permissions)
+  - [Apply filters to SQL queries](https://github.com/Aniki-The-Forbidden-One/Apply-filters-to-SQL-queries)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
