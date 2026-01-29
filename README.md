@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dean! </a></h1>
+<h1>Hi, I'm Dean! Self taught in IT with a range of skills. Here you'll find some of my projects from my learning journey. </a></h1>
 
 <h2>👨‍💻 Microsoft Azure Administration Projects:</h2>
 
@@ -11,7 +11,8 @@
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://https://github.com/Aniki-The-Forbidden-One/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident)
   - [Use Linux commands to manage file permissions](https://github.com/Aniki-The-Forbidden-One/Use-Linux-commands-to-manage-file-permissions)
   - [Apply filters to SQL queries](https://github.com/Aniki-The-Forbidden-One/Apply-filters-to-SQL-queries)
-  - [Analyze-a-vulnerable-system-for-a-small-business](https://github.com/Aniki-The-Forbidden-One/Analyze-a-vulnerable-system-for-a-small-business)
+  - [Analyze a vulnerable system for a small-business](https://github.com/Aniki-The-Forbidden-One/Analyze-a-vulnerable-system-for-a-small-business)
+  - [Incident Journal Entries](https://github.com/Aniki-The-Forbidden-One/Aniki-The-Forbidden-One-Incident-Journal-Entries)
 
 <h2> 🤳 Connect with me:</h2>
 
