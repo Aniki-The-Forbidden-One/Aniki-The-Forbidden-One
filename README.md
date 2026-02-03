@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dean! Self taught in IT with a range of skills. Here you'll find some of my projects from my learning journey. </a></h1>
+<h1>Hi, I'm Dean! Self taught in IT with a range of skills in cloud and cybersecurity. </a></h1>
 
 <h2>👨‍💻 Microsoft Azure Administration Projects:</h2>
 
