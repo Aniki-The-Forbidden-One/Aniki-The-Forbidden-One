@@ -13,6 +13,7 @@
   - [Apply filters to SQL queries](https://github.com/Aniki-The-Forbidden-One/Apply-filters-to-SQL-queries)
   - [Analyze a vulnerable system for a small-business](https://github.com/Aniki-The-Forbidden-One/Analyze-a-vulnerable-system-for-a-small-business)
   - [Incident Journal Entries](https://github.com/Aniki-The-Forbidden-One/Aniki-The-Forbidden-One-Incident-Journal-Entries)
+  - [Update a file through a Python algorithm](https://github.com/Aniki-The-Forbidden-One/Update-a-file-through-a-Python-algorithm/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
